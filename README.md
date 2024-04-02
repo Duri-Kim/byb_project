@@ -1,4 +1,4 @@
-#  BYB Project Repository! 
+#  byb_project repository! 
 This repository contains the code for the BYB Project.
   
 ## Installation
